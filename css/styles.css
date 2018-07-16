@@ -17,8 +17,7 @@
 
 /* General */
 
-body{
-background:#f2f3ee url('../images/bg-tile.gif')top left repeat;
+body{background:#f2f3ee url('../images/bg-tile.gif')top left repeat;
     color:#4b2707;
     font-size: 14px;
     font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif;
@@ -160,9 +159,9 @@ header nav ul li#logo a:hover{
     
 }
 
+/* 
 
-
-/* News & Events */
+News & Events */
 #articles{
     width: 370px;
     float: left;
